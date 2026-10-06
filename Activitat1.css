@@ -1,0 +1,41 @@
+body{
+background-color: rgb(212, 194, 194);
+
+    h1 {
+        color: white;
+        background-color: black;
+        text-align: center;
+        
+
+    }
+
+    p.blau {
+        color:rgb(0, 0, 255)
+    }
+
+    h2 {
+        color: white;
+        border-bottom: 1px solid white;
+        text-align:center;
+
+    }
+    p.vermell {
+        color:red;
+        font-weight: bold;
+    }
+
+    .subratllat {
+        text-decoration: underline;
+        font-size: 1.2em;
+    }
+
+    .groc {
+        background-color: yellow;
+        color: black
+    }
+
+    .h2oemc2{
+        color: white;
+        background-color: black;
+    }
+}
