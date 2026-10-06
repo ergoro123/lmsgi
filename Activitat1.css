@@ -19,7 +19,7 @@ background-color: rgb(212, 194, 194);
         text-align:center;
 
     }
-    p.vermell {
+    .vermell {
         color:red;
         font-weight: bold;
     }
@@ -31,11 +31,24 @@ background-color: rgb(212, 194, 194);
 
     .groc {
         background-color: yellow;
-        color: black
+        color: black;
+        padding-right: 0.3em;
+        padding-left: 0.3em;
+        border: 1px solid black;
+    }
+
+    .cosmargin {
+        margin-left: 3.25em;
+    }
+
+    .formulamargin {
+        margin-left: 1.2em;
     }
 
     .h2oemc2{
         color: white;
         background-color: black;
+        padding-right: 0.3em;
+        padding-left: 0.3em;
     }
 }
