@@ -1,0 +1,22 @@
+ul.llenguatges {
+list-style-image: url(icona_llenguatges.png);
+}
+.h1 {
+    border-bottom: 2px solid black;
+    }
+ol.ai {
+list-style-image: url(ai.png);
+}
+.parial {
+    font-family: arial, Helvetica, sans-serif;
+    color: #2c3e50;
+}
+body {
+    background-color: #f9f9f9;
+
+}
+li{
+    padding: 0.2em;
+}
+
+
